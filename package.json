@@ -1,0 +1,23 @@
+{
+  "name": "loopback-mixin-common",
+  "version": "1.0.0",
+  "description": "loopback.io common useful mixins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanbo/loopback-mixin-common.git"
+  },
+  "keywords": [
+    "loopback",
+    "mixin"
+  ],
+  "author": "guanbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guanbo/loopback-mixin-common/issues"
+  },
+  "homepage": "https://github.com/guanbo/loopback-mixin-common#readme"
+}

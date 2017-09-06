@@ -35,6 +35,14 @@
   "mixins": {
      "Timestamp": {
        "modified": 0
+     },
+     "DefaultScope": {
+       "query": {
+         "limit": 25,
+       },
+       "currentUser": {
+         "userId": "id" // Mymodel.userId: currentUser.id
+       }
      }
    },
   "properties": {
